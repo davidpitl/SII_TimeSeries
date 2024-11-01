@@ -1,2 +1,1 @@
-2024-10-30 13:33:48,341 - INFO - >>> Model dtype: torch.bfloat16; Attention:eager
-2024-10-30 13:34:24,809 - INFO - {'model': <__main__.TimeMoE object at 0x000002B60A3FC880>, 'data': 'data/sii_total_nocierre.csv', 'context_length': 256, 'prediction_length': 30, 'mse': 0.01394740678369999, 'mae': 0.0850350484251976}
+2024-10-31 10:42:47,336 - INFO - >>> Model dtype: torch.bfloat16; Attention:eager
